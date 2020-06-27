@@ -1,0 +1,85 @@
+5
+30
+Add A 25
+Add B 12
+Delete A
+Add C 10
+Add D 12
+Delete B
+Add E 4
+Delete C
+Delete D
+Delete E
+Add F 40
+Delete F
+Add G 28
+Add H 4
+Add J 6
+Delete G
+Add K 20
+Delete H
+Delete J
+Add L 5
+Delete K
+Delete L
+Add M 2
+Add N 4
+Add O 8
+Add P 16
+Delete P
+Delete O
+Add Q 32
+Delete M
+10
+Add A 5
+Add B 4
+Add C 6
+Delete B
+Add D 3
+Add E 8
+Delete D
+Add F 3
+Delete C
+Add G 2
+20
+Add A 5
+Add B 6
+Add C 7
+Add D 10
+Delete C
+Add E 15
+Delete A
+Delete B
+Add Z 3
+Delete E
+Add F 1
+Add H 2.5
+Add R 2
+Delete D
+Add T 3
+Delete Z
+Delete R
+Add W 4
+Delete F
+Delete T
+Delete W
+10
+Add A 20
+Delete A
+Add B 15
+Delete B
+Add C 10
+Delete C
+Add D 20
+Delete D
+Add E 18
+Delete E
+8
+Add A 30
+Delete A
+Add B 40
+Delete B
+Add C 25
+Delete C
+Add D 35
+Delete D
